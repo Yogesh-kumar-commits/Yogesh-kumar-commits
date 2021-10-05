@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Yogesh-kumar-committed
-- 👀 I’m interested in all girls 
-- 🌱 I’m currently learning flirting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
