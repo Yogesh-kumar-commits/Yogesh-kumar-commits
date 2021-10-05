@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yogesh-kumar-committed
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Yogesh-kumar-commits
+- 💞️ I’m looking to collaborate on Full stack engineers
 
 <!---
 Yogesh-kumar-commits/Yogesh-kumar-commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
